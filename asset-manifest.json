@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1dda560a.css",
+    "main.js": "/static/js/main.cf5eb842.js",
+    "static/media/avto_foto_full.jpg": "/static/media/avto_foto_full.947ea51b037e6b7932a3.jpg",
+    "static/media/add_details_2.jpg": "/static/media/add_details_2.52ef623684b3db76d380.jpg",
+    "static/media/add_details.jpg": "/static/media/add_details.6292e5d710f575f0cd3f.jpg",
+    "static/media/add_details_3.jpg": "/static/media/add_details_3.f3995ea6f1b7ab79495d.jpg",
+    "static/media/sport_demo.jpg": "/static/media/sport_demo.7481c2952447c94b0f91.jpg",
+    "static/media/old_1_onehandle.jpg": "/static/media/old_1_onehandle.c8a03f3835bbbd0b0dbf.jpg",
+    "index.html": "/index.html",
+    "main.1dda560a.css.map": "/static/css/main.1dda560a.css.map",
+    "main.cf5eb842.js.map": "/static/js/main.cf5eb842.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dda560a.css",
+    "static/js/main.cf5eb842.js"
+  ]
+}
